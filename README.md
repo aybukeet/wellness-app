@@ -75,3 +75,6 @@ Bu uygulama, tüm bu ihtiyaçları sade ve bütünsel bir mobil deneyim altında
 Seçilen mood board’daki pastel tonlar, kart bazlı içerik düzeni ve modüler ekran yapısı tasarım kararlarını doğrudan etkilemiştir.
 Yuvarlatılmış kart tasarımları ve yumuşak mor tonları, kullanıcıya güven ve sakinlik hissi sunmak amacıyla tercih edilmiştir.
 
+
+proje videosu: https://youtube.com/shorts/gt8uOdBKeDU?feature=share
+

@@ -1,5 +1,16 @@
 # Women’s Health & Wellness App 🌸
+---
 
+## 📱 APK Dosyası
+APK Linki: https://expo.dev/accounts/aybukeet/projects/app/builds/d49da446-40e7-4bcf-8be0-fee496cd6b87
+Android APK dosyası EAS Build üzerinden alınmıştır.
+
+Build almak için kullanılan komut:
+
+```bash
+eas build -p android --profile preview
+
+````
 ## 📱 Proje Açıklaması
 
 Bu proje, kadınların sağlıklı yaşam, doğurganlık farkındalığı ve günlük wellness alışkanlıklarını tek bir mobil uygulama üzerinden takip edebilmesi amacıyla geliştirilmiştir.

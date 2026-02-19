@@ -30,13 +30,48 @@ git clone <repo-link>
 cd women-wellness-app
 npm install
 npx expo start
-## 📝 Proje Notu
+````
+Ardından açılan Expo geliştirme arayüzü üzerinden:
 
-### 🎯 Hedef Kullanıcı Kitlesi
+📱 Expo Go uygulaması ile QR kod okutularak mobil cihazda çalıştırılabilir.
+
+💻 Android Emulator veya iOS Simulator üzerinden test edilebilir.
+
+---
+
+📦 Uygulama Özellikleri
+
+Bottom Tab Navigation (4 ana ekran)
+
+Liste → Detay akışı
+
+Topluluk gönderi oluşturma formu
+
+Haftalık görev takibi ve dinamik ilerleme çubuğu
+
+Ders ilerleme takibi
+
+Loading state yönetimi
+
+Empty state bileşeni
+
+Basit hata durumu kontrolü
+
+---
+
+📝 Proje Notu
+
+👩‍💼 Hedef Kullanıcı Kitlesi
+
 Sağlıklı yaşam alışkanlıklarını geliştirmek isteyen ve doğurganlık sürecine bilinçli şekilde hazırlanmak isteyen kadınlar.
 
-### 🧩 Çözmek İstediğim Problem
-Kadın sağlığına dair içerik, topluluk desteği ve görev takibinin farklı platformlara dağılmış olması yerine, tek bir sade ve güvenilir mobil deneyimde toplanması.
+🧩 Çözmek İstediğim Problem
 
-### 🎨 Panodan Aldığım İlham
-Mood board’daki pastel tonlar, kart bazlı içerik yapısı ve ders-topluluk-görev sistematiği temel alınarak tasarım kararları verildi. Yumuşak renk geçişleri ve yuvarlatılmış kart yapıları güven ve sakinlik hissi oluşturmak amacıyla tercih edildi.
+Kadın sağlığına dair içerik, topluluk desteği ve görev takibi farklı platformlara dağılmış durumdadır.
+Bu uygulama, tüm bu ihtiyaçları sade ve bütünsel bir mobil deneyim altında toplamayı hedeflemektedir.
+
+🎨 Panodan Aldığım İlham
+
+Seçilen mood board’daki pastel tonlar, kart bazlı içerik düzeni ve modüler ekran yapısı tasarım kararlarını doğrudan etkilemiştir.
+Yuvarlatılmış kart tasarımları ve yumuşak mor tonları, kullanıcıya güven ve sakinlik hissi sunmak amacıyla tercih edilmiştir.
+

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "2bfa5645-67c6-4733-bb44-049f0adcad17"
+      }
+    },
+    "android": {
+      "package": "com.aybukeet.wellnessapp"
+    }
+  }
+}
